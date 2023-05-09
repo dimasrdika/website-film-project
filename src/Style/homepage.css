@@ -1,0 +1,31 @@
+
+
+.myBg {
+    height: 100vh;
+    background:url(../asset/image/background-hero/hero.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+
+.Trend {
+    background-color: #191919;
+}
+.Action {
+    background-color: #191919;
+}
+.Thriller {
+    background-color: #191919;
+}
+
+.movieImage {
+    height: fit-content;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+
+
+.Images {
+    height: 350px;
+}

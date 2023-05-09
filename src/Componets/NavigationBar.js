@@ -14,7 +14,7 @@ return (
             <NavDropdown.Item href="#Trending">
                 Trending
             </NavDropdown.Item>
-            <NavDropdown.Item href="#action/3.3">Thriller</NavDropdown.Item>
+            <NavDropdown.Item href="#Thriller">Thriller</NavDropdown.Item>
             <NavDropdown.Divider />
             </NavDropdown>
         </Nav>

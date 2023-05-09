@@ -5,9 +5,10 @@ import Intro from './Componets/Intro';
 import Trending from './Componets/Trending';
 import Action from './Componets/Action';
 import Thriller from './Componets/Thriller';
+import Footer from './Componets/Foooter';
+
 function App() {
   return (
-    // NAVBAR AND HERO //
     <div>
       <div className="myBg">
       <NavigationBar/>
@@ -21,6 +22,9 @@ function App() {
     </div>
     <div className='Thriller'>
     <Thriller/>
+    </div>
+    <div className='footer'>
+      <Footer/>
     </div>
     </div>
 );

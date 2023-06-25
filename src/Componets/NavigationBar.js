@@ -11,9 +11,7 @@ return (
             <Nav.Link className='text-light' href="#Home">Home</Nav.Link>
             <NavDropdown title="Category" id="collasible-nav-dropdown" menuVariant='dark'>
             <NavDropdown.Item href="#Action">Action</NavDropdown.Item>
-            <NavDropdown.Item href="#Trending">
-                Trending
-            </NavDropdown.Item>
+            <NavDropdown.Item href="#Trending">Trending</NavDropdown.Item>
             <NavDropdown.Item href="#Thriller">Thriller</NavDropdown.Item>
             <NavDropdown.Divider />
             </NavDropdown>
